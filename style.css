@@ -17,6 +17,6 @@ footer{
         padding : 10px 20px;
         }
 main img {
-                width : 100px;
-        
+                width : 200px;
+                float : left;
                 }

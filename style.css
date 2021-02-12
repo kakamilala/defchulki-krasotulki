@@ -1,9 +1,10 @@
 body{
-        background : #0000FF;
+        background : #DDA0DD;
     }
 .logo{
         font-family : Snell Roundhand, cursive;
         font-size : 80px;
         font-style : initial;
+        text-align : center;
       }
 

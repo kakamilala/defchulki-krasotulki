@@ -17,6 +17,9 @@ footer{
 .main{
         padding : 30px;
         }
+nav{
+        float : right;
+        }
 main img {
                 width : 500px;
                 float : left;

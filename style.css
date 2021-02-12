@@ -1,10 +1,15 @@
 body{
         background : #D8BFD8;
-    }
+        }
 .logo{
         font-family : Snell Roundhand, cursive;
         font-size : 80px;
         font-style : initial;
         text-align : center;
-      }
-
+        }
+main{
+        margin : 10px 40px 10px 40px;
+        }
+footer{
+        text-align : center;
+        }

@@ -3,9 +3,10 @@ body{
         }
 .logo{
         font-family : Snell Roundhand, cursive;
-        font-size : 80px;
+        font-size : 200px;
         font-style : initial;
         text-align : center;
+        color : #9400D3;
         }
 main{
         margin : 10px 300px 10px 300px;
@@ -19,6 +20,8 @@ footer{
         }
 nav{
         float : right;
+        padding : 15px;
+        margin-left : 50px;
         }
 main img {
                 width : 500px;

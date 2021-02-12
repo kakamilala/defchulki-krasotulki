@@ -1,5 +1,5 @@
 body{
-        background : #D8BFD8;
+        background : #FFB6C1;
         }
 .logo{
         font-family : Snell Roundhand, cursive;
@@ -16,3 +16,6 @@ footer{
 .main{
         padding : 20px;
         }
+main img {
+                width : 300px;
+                }

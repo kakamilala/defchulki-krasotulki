@@ -2,5 +2,7 @@ body{
     background : #DDA0DD;
     }
 .logo{
-      font-family: Snell Roundhand, cursive;
+      font-family : Snell Roundhand, cursive;
+      font-size : 80px;
+      font-style : initial;
        }
